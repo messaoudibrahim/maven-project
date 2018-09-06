@@ -4,7 +4,7 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
-
+   int A = "df";
   /**
    * This is a constructor.
    */
